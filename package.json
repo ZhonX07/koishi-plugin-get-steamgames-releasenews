@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-get-steamgames-releasenews",
+  "description": "获取Steam游戏的更新日志",
+  "version": "1.0.0-Alpha",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "author": "zhon_xu",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.18.7"
+  }
+}
